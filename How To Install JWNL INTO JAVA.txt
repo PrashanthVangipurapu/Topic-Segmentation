@@ -1,0 +1,13 @@
+JWNL stands for java word net library.
+You need to do the following steps for getting wordnet installed into your java program.
+
+https://joedhanith.wordpress.com/2016/04/27/first-blog-post/
+
+Please follow the above link step by step for getting done.
+
+1. Install wordnet 3.0 and jwnl from the abobe    link.
+2. If you run the program. You will get many    exceptions. Don't get panicked. Just follow the    steps at the exception. You only have to change    the file names.
+3. Example index.dat is replaced as dat.idx.    Everything will be clearly given at the    exception stack trace, like file not found. Then    come to the given location and change the file    names accordingly. Everyting will work fine then.
+
+
+My Saviour link at the end of the day: https://community.oracle.com/thread/2026129
